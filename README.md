@@ -20,7 +20,7 @@
   Since this application has been deployed, there aren't any installations needed from the users end.
 
   ## Usage
-  To use this application, one can simply click on the link which will bring you to the loading page.
+  To use this application, one can click on the this [link](https://obscure-waters-40123-0fd4eca4d553.herokuapp.com/) which will bring you to the loading page.
 
 
   ## License
